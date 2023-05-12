@@ -29,7 +29,7 @@ export const navigation = {
 };
 export const intro = {
   title: "Hey, I'm Marvin",
-  description: "A Computer Engineer creating mobile apps and static websites.",
+  description: "A developer who has a passion for creating applciations.",
   image: profile.src,
   buttons: [
     {
