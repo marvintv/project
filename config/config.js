@@ -154,8 +154,8 @@ export const SEO = {
 
 export const links = {
   image: profile.src,
-  title: "@hashirshoaeb",
-  description: "Computer Engineer | Flutter | Reactjs Developer",
+  title: "@marvinvilaysack",
+  description: "",
   cards: [
     {
       title: "My website",
