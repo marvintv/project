@@ -137,7 +137,7 @@ export const contact = {
     },
     {
       title: "Schedule Meeting",
-      link: "",
+      link: "https://calendly.com/marvinvilaysack/15min",
       isPrimary: false,
     },
   ],
